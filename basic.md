@@ -12,7 +12,7 @@ su
 
 2. 参考网址：https://www.cnblogs.com/sunanli/p/13797042.html 复制源，更改/etc/apt/sources.list文件
 
-3. sudo apt-get updatee
+3. sudo apt-get update
 
 安装软件
 
@@ -23,6 +23,10 @@ sudo apt install build-essential
 查看gcc/g++版本
 
 gcc/g++ --version
+
+更改文件/目录权限：
+
+chown命令，详见https://www.cnblogs.com/wuling129/p/4648760.html
 
 设置用户信息
 
