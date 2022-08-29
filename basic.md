@@ -20,6 +20,8 @@ sudo apt install vim
 
 sudo apt install build-essential
 
+sudo apt install valgrind
+
 查看gcc/g++版本
 
 gcc/g++ --version
