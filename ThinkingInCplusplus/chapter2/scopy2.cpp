@@ -1,4 +1,5 @@
 // C02:scopy.cpp
+// Copy ont file to another, a line at a time
 
 #include <string>
 #include <fstream>
