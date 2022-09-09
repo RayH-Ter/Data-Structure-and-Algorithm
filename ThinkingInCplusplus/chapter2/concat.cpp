@@ -1,4 +1,5 @@
 // C02:concat.cpp
+// Character array concatenation
 
 #include <iostream>
 using namespace std;

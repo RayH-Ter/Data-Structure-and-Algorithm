@@ -1,4 +1,5 @@
 // C02:numconv.cpp
+// Converts decimal to octal and hex
 
 #include <iostream>
 using namespace std;

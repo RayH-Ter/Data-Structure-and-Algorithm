@@ -1,4 +1,5 @@
 // C02:hello.cpp
+// Saying hello with C++
 
 #include <iostream>
 using namespace std;
